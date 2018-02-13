@@ -26,6 +26,10 @@ You can find more about the process of using addonds that Storybook provides ove
 
 We can develop our components in isolation but since we integrated storybook within our project it automatically takes over all the dependencies that we use and can simulate our application's flow but on a component specific level. This way we can test our components without having to worry that our application will break during the testing. 
 
+> Storybook & TDD
+
+Storybook and Test Driven Development go hand in hand. You can use this cli which created a whole set of files for your component so you can create your story and test it immediate afterwards. Link to cli: https://github.com/raulfdm/atomic-design-react-cli
+
 > Use case for Storybook?
 
 We all know that React, Vue or Angular can be a bit overwhelming when getting started. Storybook allows you to create a subset and a clear overview
